@@ -1,0 +1,51 @@
+오후
+공중데이터포털 검색하는방법
+https://www.data.go.kr/
+
+1,데이터찾기
+2.데이터목록
+3.미세먼지
+4.오픈API
+5.활용신청
+6.마이페이지
+7.일반인증키(인코딩)복사
+PYrSMZR2ln44TSqTe7UgYWI3utmSuCyR%2BT4YO8xuAalYXrEbrEELu8f7Zz2XzuHY3oy0w5p1rc%2Fl48Zr%2F0a6Qg%3D%3D
+
+http://apis.data.go.kr/1480523/MetalMeasuringResultService/MetalService?numOfRows=1&pageNo=1&res
+ultType=xml&stationcode=1&date=20171208&timecode=RH02&itemcode=90303&serviceKey=PYrSMZR2ln44TSqTe7UgYWI3utmSuCyR%2BT4YO8xuAalYXrEbrEELu8f7Zz2XzuHY3oy0w5p1rc%2Fl48Zr%2F0a6Qg%3D%3D
+
+
+<PDF의 rest 요청코드 = 사이트어딘가의 인증키> 하고 웹주소에 붙여넣기
+
+
+그앞의 코드는 PDF의 REST 요청 키  
+서비스키는 마이페이지의  인코딩 코드
+
+
+
+코랩은 이렇게 표현한거임 ↓
+
+A=http://apis.data.go.kr/1480523/MetalMeasuringResultService/MetalService
+?
+B=numOfRows=1&
+C=pageNo=1&
+D=resultType=xml
+E=&stationcode=NUM
+NUM INPUT()
+&date=20171208
+&timecode=RH02
+&itemcode=90303
+&serviceKey=서비스키
+
+파일 >github gist 로 저장한뒤 새로운 고양이 코랩나오면 주소 복사후 깃허브에 복사해서 하루한거 저장하기
+
+
+공공데이털포털보다 
+
+통계청 데이털포털이 찾는것이 더 빠를수도있다.
+
+
+
+
+
+

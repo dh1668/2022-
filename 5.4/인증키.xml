@@ -1,0 +1,26 @@
+http://apis.data.go.kr/1480523/MetalMeasuringResultService/MetalService?numOfRows=1&pageNo=1&res
+ultType=xml&stationcode=1&date=20171208&timecode=RH02&itemcode=90303&serviceKey=PYrSMZR2ln44TSqTe7UgYWI3utmSuCyR%2BT4YO8xuAalYXrEbrEELu8f7Zz2XzuHY3oy0w5p1rc%2Fl48Zr%2F0a6Qg%3D%3D
+
+
+<PDF의 rest 요청코드 = 사이트어딘가의 인증키> 하고 웹주소에 붙여넣기
+
+
+
+
+
+
+A=http://apis.data.go.kr/1480523/MetalMeasuringResultService/MetalService
+?
+B=numOfRows=1&
+C=pageNo=1&
+D=resultType=xml
+E=&stationcode=NUM
+NUM INPUT()
+&date=20171208
+&timecode=RH02
+&itemcode=90303
+&serviceKey=서비스키
+
+문자열 포맷
+예외처리
+
