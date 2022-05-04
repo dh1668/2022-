@@ -14,3 +14,13 @@ https://colab.research.google.com/gist/ehpub/923d4e891225c65cdfb87a127b45e0a9/-2
 위에꺼랑 같음<카톡 첫번째>
 https://colab.research.google.com/gist/ehpub/923d4e891225c65cdfb87a127b45e0a9/-2205-01.ipynb?hl=ko
 https://colab.research.google.com/gist/ehpub/923d4e891225c65cdfb87a127b45e0a9/-2205-01.ipynb?hl=ko
+
+
+
+
+
+
+
+
+연습
+https://gist.github.com/dh1668/cae90521a38d8b0f11aaa6b726e6b1d6#file-5-4-ipynb
