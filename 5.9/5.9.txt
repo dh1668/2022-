@@ -1,0 +1,87 @@
+5/9 
+
+NumPy documentation가 기본 메뉴
+
+
+- NumPy(넘파이) 특징
+
+1. 행렬/배열 처리 및 연산
+
+2. 과학 계산을 위한 라이브러리
+
+3. 난수생성
+
+
+-리스트에서 행렬/배열 생성
+
+import numpy as np # numpy 패키지 로드하여 np로 사용
+a = [[1,2,3], [4,5,6]] # 리스트에서 행렬생성
+b = np.array(a) 
+print(b)
+## [[1 2 3]
+##  [4 5 6]]
+
+print(b.ndim)  # 배열의 열수(차원)
+
+
+
+----
+p135~
+
+파이썬에서는 행렬에서의 연산을 기본제공하지않기때문에 NUMPY 써야함
+
+#numpy 배열은 행렬 연산을 제공한다
+
+
+★배열의생성
+
+https://chancoding.tistory.com/11		<<참고 
+
+A*E = E*A = A
+
+np.random.normal	무작위 표본 추출
+https://rfriend.tistory.com/284 <<참고
+
+Python Numpy.std()-표준 편차 함수
+https://www.delftstack.com/ko/api/numpy/python-numpy-std/ <<참고
+
+
+
+★★
+이미지 저장 < 구글 드라이브에 끌어서 저장하고>
+
+드라이브 마운트 해서 가져오기
+
+
+
+
+
+Python Numpy numpy.unique() 함수는 
+주어진NumPy 배열의 모든 고유 값을 검색하고 이러한 고유 값을 정렬합니다.
+
+
+
+
+np.dot ( a, b ) :내적함수 1차원 2차원 계산방식다르다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
